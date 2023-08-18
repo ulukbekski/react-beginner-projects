@@ -44,8 +44,8 @@ function App() {
           </div>
           <div className="form__additional">
             <div>
-              <input class="styled-checkbox" id="checkbox" type="checkbox" value="value1" />
-              <label for="checkbox">Запомнить</label>
+              <input className="styled-checkbox" id="checkbox" type="checkbox" value="value1" />
+              <label hmltFor="checkbox">Запомнить</label>
             </div>
             <a>Забыл пароль?</a>
           </div>

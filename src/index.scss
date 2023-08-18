@@ -17,7 +17,7 @@ body {
 .App {
   display: flex;
   width: 900px;
-  margin: 100px auto;
+  margin: 50px auto;
   background-color: #fff;
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -35,7 +35,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: #295cc5;
-  height: 700px;
+  height: 650px;
   width: 50%;
 
   &__inner {
